@@ -1,0 +1,6 @@
+//The Book class contains four attributes: title, author, ISBN, and price. It includes two constructors:
+ a default constructor that initializes these attributes to default values and a parameterized constructor
+  for setting specific values. The displayInfo() method outputs the details of the book, while the applyDiscount()
+   method decreases the price based on a specified percentage. In the main method, three Book objects are instantiated
+    (one with default values and two with specific values). The displayInfo() method is called to show their details, and 
+    applyDiscount() is used to apply a discount to the price of one book. This structure effectively meets the assignment's requirements.
